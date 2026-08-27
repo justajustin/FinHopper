@@ -1,6 +1,6 @@
 # FinHopper — A Controllable Multi-Hop QA Benchmark for Finance
 
-> [中文版 README](README.md)
+> [中文版 README](README_ZH.md)
 
 **FinHopper** is a multi-hop question answering (Multi-Hop QA) benchmark for financial agents, introduced in the paper *FinHopper: A Progressive Multi-Hop Benchmark for Complex Financial Agents with Step-wise Evaluation*.
 

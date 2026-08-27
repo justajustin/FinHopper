@@ -133,6 +133,6 @@ If you use this benchmark, please cite the following paper:
   booktitle = {Findings of the 2026 Conference on Empirical Methods in
                Natural Language Processing (EMNLP Findings)},
   year      = {2026},
-  url       = {https://github.com/YOUR-USERNAME/FinHopper}
+  url       = {https://github.com/justajustin/FinHopper}
 }
 ```

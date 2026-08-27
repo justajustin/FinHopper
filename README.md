@@ -124,10 +124,19 @@ judge_prompt = (
 @inproceedings{finhopper2026,
   title     = {FinHopper: A Progressive Multi-Hop Benchmark for Complex
                Financial Agents with Step-wise Evaluation},
-  author    = {Anonymous},
-  booktitle = {Anonymous ACL Submission},
+  author    = {Wu, Yuxuan and Lin, Miaopei and Ying, Qiufang and Dan, Lin
+               and Zhao, Hao and Liu, Qirui and Shen, Yuteng and Wu, Shaohui
+               and Luo, Weihong and Du, Xiku and Tang, Xing and Chen, Hao},
+  booktitle = {Findings of the 2026 Conference on Empirical Methods in
+               Natural Language Processing (EMNLP Findings)},
   year      = {2026},
-  url       = {https://anonymous.4open.science/r/FinHopper-aabb/}
+  url       = {https://github.com/justajustin/FinHopper}
+}
+```
+
+
+
+
 }
 ```
 
